@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,17 +19,21 @@ namespace DataAccessLayer.Repository
 
         public List<T> GetList()
         {
-            throw new NotImplementedException();
+            using var c = new Context();
+            return c.Set<T>().ToList();
+            
         }
 
         public void Insert(T t)
         {
-            throw new NotImplementedException();
+            using var c = new Context();
+            c.Add(t);
         }
 
         public void Update(T t)
         {
-            throw new NotImplementedException();
+            using var c = new Context();
+            c.Update(t);
         }
     }
 }
