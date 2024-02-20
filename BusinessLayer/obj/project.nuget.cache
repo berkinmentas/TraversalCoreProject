@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2MpbZfqMoFpsIlOsatSzOWU1t5Zu1C0hGwgH1CmbemLGArH0+Ns6VvWexfnmi/OvKIkFrCYZI0DX2YYPdSeLLA==",
+  "dgSpecHash": "AhZpVawJueOHw8jR64Yyh2MgJXoXZlb0WGjj5WDlQYMIzpKQIIJr/i/t09SwRaM9VvaOiX61AUxIuAl9rJm3YQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\berkin\\source\\repos\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berkin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\berkin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\berkin\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\berkin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\berkin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\berkin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\berkin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\berkin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
